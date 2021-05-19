@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "60a19650474a9cbb6fd2dac4"
+  },
+  "name": "Benjy",
+  "owner": "Bob Daniel",
+  "breed": "German Shepard",
+  "location": "1231 Paper Street Cincinnati OH 45248",
+  "age": 1,
+  "desc": "This big guy loves meeting new people and is eager to become more active in the big city",
+  "payment": "$15",
+  "viewed": false,
+  "image": "images\\german-shepard.jpg",
+  "sex": "male",
+  "id": "3"
+},{
+  "_id": {
+    "$oid": "60a19650474a9cbb6fd2dac5"
+  },
+  "name": "Bowie",
+  "owner": "Sam Tucker",
+  "breed": "Dalmation",
+  "location": "4678 West Port Dr. Cincinnati OH 45003",
+  "age": 7,
+  "desc": "Bowie is quiet and doesn't need much besides a good walking companion.",
+  "payment": "$20",
+  "viewed": false,
+  "image": "images\\dalmation.jpg",
+  "sex": "male",
+  "id": "4"
+},{
+  "_id": {
+    "$oid": "60a19650474a9cbb6fd2dac6"
+  },
+  "name": "Jewls",
+  "owner": "Kate Perry",
+  "breed": "Golden Retriever",
+  "location": "7650 Beach St. Cincinnati OH 45860",
+  "age": 3,
+  "desc": "Jewls is a loyal dog who will cling to any friend.",
+  "payment": "$14",
+  "viewed": false,
+  "image": "images\\golden-retriever.jpg",
+  "sex": "female",
+  "id": "1"
+},{
+  "_id": {
+    "$oid": "60a19733474a9cbb6fd2dac7"
+  },
+  "name": "Sandy",
+  "owner": "Polly Bullet",
+  "breed": "Poodle",
+  "location": "7450 Halmark St. Cincinnati OH 45860",
+  "age": 6,
+  "desc": "Polly is shy around new people. Looking for experinced dog handlers only.",
+  "payment": "$22",
+  "viewed": false,
+  "image": "images\\poodle.jpg",
+  "id": "2"
+},{
+  "_id": {
+    "$oid": "60a197de474a9cbb6fd2dac8"
+  },
+  "name": "Brandy",
+  "owner": "Griffin Oliver",
+  "breed": "Grey Hound",
+  "location": "3334 Robert St. Cincinnati OH 45366",
+  "age": 12,
+  "desc": "Brandy is an old gentle giant that can handle any walker.",
+  "payment": "$20",
+  "viewed": false,
+  "image": "images\\grey-hound.jpg",
+  "sex": "female",
+  "id": "5"
+},{
+  "_id": {
+    "$oid": "60a19907474a9cbb6fd2dac9"
+  },
+  "name": "Yipper",
+  "owner": "Emily Danson",
+  "breed": "Pug",
+  "location": "8999 7th St. Cincinnati OH 44443",
+  "age": 2,
+  "desc": "Be prepared to handle this bundle of energy! Loves new people.",
+  "payment": "$19",
+  "viewed": false,
+  "image": "images\\pug.jpg",
+  "sex": "male",
+  "id": "6"
+},{
+  "_id": {
+    "$oid": "60a19970474a9cbb6fd2daca"
+  },
+  "name": "Champ",
+  "owner": "Matthew Robertson",
+  "breed": "Bulldog",
+  "location": "44489 10th St. Cincinnati OH 44443",
+  "age": 6,
+  "desc": "Don't let his size fool you, champ loves to go for long walks",
+  "payment": "$13",
+  "viewed": false,
+  "image": "images/bull-dog.jpg",
+  "sex": "male",
+  "id": "7"
+},{
+  "_id": {
+    "$oid": "60a199ec474a9cbb6fd2dacb"
+  },
+  "name": "Casper",
+  "owner": "Walt Smithers",
+  "breed": "Husky",
+  "location": "1270 Dotson Rd. Cincinnati OH 41556",
+  "age": 10,
+  "desc": "Looking for an owner with experince with larger dogs. Casper requires lengthy runs.",
+  "payment": "25",
+  "viewed": false,
+  "image": "images\\husky.jpg",
+  "sex": "male",
+  "id": "8"
+},{
+  "_id": {
+    "$oid": "60a19af3474a9cbb6fd2dacc"
+  },
+  "name": "Holly",
+  "owner": "Wendy Lu",
+  "breed": "Australian Sheppard",
+  "location": "1270 3rd St. Cincinnati OH 41556",
+  "age": 5,
+  "desc": "Requires a ton of patience but rewards you in love and affection!",
+  "payment": "17",
+  "viewed": false,
+  "image": "\\images\\australian-shepard.jpg",
+  "sex": "female",
+  "id": "9"
+}]
