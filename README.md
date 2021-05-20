@@ -10,7 +10,7 @@ MERN Stack Application for finding dogs to walk.
 
 ## General Information
 This full-stack React applications allows users to find pet owners that are seeking dog walkers.
-The data for the dogs 
+The data for the dogs is stored on a MongoDB database.
 
 ## Technologies
 This application is created with the MERN stack:
